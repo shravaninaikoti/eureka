@@ -29,3 +29,4 @@ def predict(file1):
     return {"label": label}
 print(predict("api/img_109.jpg"))
 #fortestbranch
+#same branch diff pull requests
