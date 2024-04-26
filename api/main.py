@@ -28,4 +28,4 @@ def predict(file1):
 
     return {"label": label}
 print(predict("api/img_109.jpg"))
-#new branch content 2
+#fortestbranch
